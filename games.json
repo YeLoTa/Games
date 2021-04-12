@@ -13,7 +13,7 @@
          "Score"  : "96",
          "Info"   : "Modern, Action Adventure, Open-World",
          "Cost"   : "$59.99",
-	 "Image"  : "https://raw.githubusercontent.com/YeLoTa/Games/main/cyberpunk.png"	
+	 "Image"  : "https://raw.githubusercontent.com/YeLoTa/Games/main/gta5.png"	
       },
       {
          "Name"   : "Bioshock",
@@ -21,7 +21,7 @@
          "Score"  : "96",
          "Info"   : "Action, Shooter, Shooter, First-Person, Sci-Fi, Sci-Fi, Arcade",
          "Cost"   : "$19.99",
-	 "Image"  : "https://raw.githubusercontent.com/YeLoTa/Games/main/cyberpunk.png"
+	 "Image"  : "https://raw.githubusercontent.com/YeLoTa/Games/main/bioshock.png"
       },
       {
          "Name"   : "Baldur's Gate 2: Shadows of Amn",
@@ -29,7 +29,7 @@
          "Score"  : "95",
          "Info"   : "Role-Playing, PC-style RPG, PC-style RPG, Western-Style",
          "Cost"   : "$19.99",
-	 "Image"  : "https://raw.githubusercontent.com/YeLoTa/Games/main/cyberpunk.png"
+	 "Image"  : "https://raw.githubusercontent.com/YeLoTa/Games/main/baldursgate2.png"
       },
       {
          "Name"   : "Portal 2",
@@ -37,6 +37,6 @@
          "Score"  : "95",
          "Info"   : "Action, Shooter, Shooter, First-Person, Sci-Fi, Sci-Fi, Arcade",
          "Cost"   : "9.99",
-	 "Image"  : "https://raw.githubusercontent.com/YeLoTa/Games/main/cyberpunk.png"
+	 "Image"  : "https://raw.githubusercontent.com/YeLoTa/Games/main/portal2.png"
       }
    ]
