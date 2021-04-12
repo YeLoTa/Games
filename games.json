@@ -5,7 +5,7 @@
          "Score"  : "96",
          "Info"   : "Action, Shooter, Shooter, First-Person, Sci-Fi, Sci-Fi, Arcade",
          "Cost"   : "$9.99",
-	 "Image"  : "https://github.com/YeLoTa/Games.json/blob/Images/half%20life.jpg"	
+	 "Image"  : "https://github.com/YeLoTa/Games/blob/main/half%20life.jpg"	
       },
       {
          "Name"   : "Grand Theft Auto 5",
@@ -13,7 +13,7 @@
          "Score"  : "96",
          "Info"   : "Modern, Action Adventure, Open-World",
          "Cost"   : "$59.99",
-	 "Image"  : "https://github.com/YeLoTa/Games.json/blob/Images/gta%205.jpg"	
+	 "Image"  : "https://github.com/YeLoTa/Games/blob/main/gta%205.jpg"	
       },
       {
          "Name"   : "Bioshock",
@@ -21,7 +21,7 @@
          "Score"  : "96",
          "Info"   : "Action, Shooter, Shooter, First-Person, Sci-Fi, Sci-Fi, Arcade",
          "Cost"   : "$19.99",
-	 "Image"  : "https://github.com/YeLoTa/Games.json/blob/Images/bioshock.jpg"
+	 "Image"  : "https://github.com/YeLoTa/Games/blob/main/bioshock.jpg"
       },
       {
          "Name"   : "Baldur's Gate 2: Shadows of Amn",
@@ -29,7 +29,7 @@
          "Score"  : "95",
          "Info"   : "Role-Playing, PC-style RPG, PC-style RPG, Western-Style",
          "Cost"   : "$19.99",
-	 "Image"  : "https://github.com/YeLoTa/Games.json/blob/Images/baldurs%20gate.jpg"
+	 "Image"  : "https://github.com/YeLoTa/Games/blob/main/baldurs%20gate.jpg"
       },
       {
          "Name"   : "Portal 2",
@@ -37,6 +37,6 @@
          "Score"  : "95",
          "Info"   : "Action, Shooter, Shooter, First-Person, Sci-Fi, Sci-Fi, Arcade",
          "Cost"   : "9.99",
-	 "Image"  : "https://github.com/YeLoTa/Games.json/blob/Images/Portal%202.jpg"
+	 "Image"  : "https://github.com/YeLoTa/Games/blob/main/Portal%202.jpg"
       }
    ]
