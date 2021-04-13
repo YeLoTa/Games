@@ -1,42 +1,42 @@
 [
       {
          "Name"   : "Half Life 2",
-         "Release": "16 November 2004",
-         "Score"  : "96",
-         "Info"   : "Action, Shooter, Shooter, First-Person, Sci-Fi, Sci-Fi, Arcade",
-         "Cost"   : "$9.99",
+         "Release": "Release Date: 16 November 2004",
+         "Score"  : "Metacritic: 96",
+         "Info"   : "Genre: Action, Shooter, First-Person, Sci-Fi",
+         "Cost"   : "Cost: $9.99",
 	 "Image"  : "https://raw.githubusercontent.com/YeLoTa/Games/main/halflife.png"	
       },
       {
          "Name"   : "Grand Theft Auto 5",
-         "Release": "13 April 2015",
-         "Score"  : "96",
-         "Info"   : "Modern, Action Adventure, Open-World",
-         "Cost"   : "$59.99",
+         "Release": "Release Date: 13 April 2015",
+         "Score"  : "Metacritic: 96",
+         "Info"   : "Genre: Modern, Action Adventure, Open-World",
+         "Cost"   : "Cost: $59.99",
 	 "Image"  : "https://raw.githubusercontent.com/YeLoTa/Games/main/gta5.png"	
       },
       {
          "Name"   : "Bioshock",
-         "Release": "21 August 2007",
-         "Score"  : "96",
-         "Info"   : "Action, Shooter, Shooter, First-Person, Sci-Fi, Sci-Fi, Arcade",
-         "Cost"   : "$19.99",
+         "Release": "Release Date: 21 August 2007",
+         "Score"  : "Metacritic: 96",
+         "Info"   : "Genre: Action, Shooter, First-Person, Sci-Fi",
+         "Cost"   : "Cost: $19.99",
 	 "Image"  : "https://raw.githubusercontent.com/YeLoTa/Games/main/bioshock.png"
       },
       {
          "Name"   : "Baldur's Gate 2: Shadows of Amn",
-         "Release": "24 September",
-         "Score"  : "95",
-         "Info"   : "Role-Playing, PC-style RPG, PC-style RPG, Western-Style",
-         "Cost"   : "$19.99",
+         "Release": "Release Date: 24 September 2000",
+         "Score"  : "Metacritic: 95",
+         "Info"   : "Genre: Role-Playing, PC-style RPG, Western-Style",
+         "Cost"   : "Cost: $19.99",
 	 "Image"  : "https://raw.githubusercontent.com/YeLoTa/Games/main/baldursgate2.png"
       },
       {
          "Name"   : "Portal 2",
-         "Release": "18 April",
-         "Score"  : "95",
-         "Info"   : "Action, Shooter, Shooter, First-Person, Sci-Fi, Sci-Fi, Arcade",
-         "Cost"   : "9.99",
+         "Release": "Release Date: 18 April 2011",
+         "Score"  : "Metacritic: 95",
+         "Info"   : "Genre: Action, Shooter, First-Person, Sci-Fi",
+         "Cost"   : "Cost: $9.99",
 	 "Image"  : "https://raw.githubusercontent.com/YeLoTa/Games/main/portal2.png"
       }
    ]
